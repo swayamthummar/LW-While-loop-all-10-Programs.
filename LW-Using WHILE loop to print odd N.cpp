@@ -8,7 +8,7 @@ main()
 
     while(a<=n)
 	{
-        if(a%2=0) 
+        if(a%2==0) 
 		{
             printf("%d\n",a);
         }
